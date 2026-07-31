@@ -73,6 +73,7 @@ The contact form validates:
 
 - Scroll-to-Top Button
 - Active Navigation Highlight
+- Form reset
 
 ## Installation
 
@@ -91,5 +92,3 @@ npm run dev
 **Midhin M**
 
 Frontend Developer
-
-Built as part of the Stackly Frontend Training Assignment.
